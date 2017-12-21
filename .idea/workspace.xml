@@ -2,19 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="02bc3f84-cb02-4653-b07b-419f59b82db8" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/btn.png" afterPath="$PROJECT_DIR$/images/btn.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/jiantou.png" afterPath="$PROJECT_DIR$/images/jiantou.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/pic_bg_01.png" afterPath="$PROJECT_DIR$/images/pic_bg_01.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/pic_bg_02.png" afterPath="$PROJECT_DIR$/images/pic_bg_02.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/pic_bg_03.png" afterPath="$PROJECT_DIR$/images/pic_bg_03.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/pic_bg_04.png" afterPath="$PROJECT_DIR$/images/pic_bg_04.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/pic_bg_05.png" afterPath="$PROJECT_DIR$/images/pic_bg_05.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tc_btn_1.png" afterPath="$PROJECT_DIR$/images/tc_btn_1.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tc_btn_2.png" afterPath="$PROJECT_DIR$/images/tc_btn_2.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tc_btn_3.png" afterPath="$PROJECT_DIR$/images/tc_btn_3.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/styles.css" afterPath="$PROJECT_DIR$/css/styles.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/styles.less" afterPath="$PROJECT_DIR$/css/styles.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="12.21tianjin.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -35,21 +25,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="351">
-              <caret line="17" column="13" selection-start-line="10" selection-start-column="4" selection-end-line="17" selection-end-column="13" />
+            <state relative-caret-position="108">
+              <caret line="71" column="38" selection-start-line="71" selection-start-column="38" selection-end-line="71" selection-end-column="38" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="styles.less" pinned="false" current-in-tab="true">
+      <file leaf-file-name="styles.less" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/styles.less">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="486">
-              <caret line="25" column="24" selection-start-line="25" selection-start-column="24" selection-end-line="25" selection-end-column="24" />
+            <state relative-caret-position="297">
+              <caret line="22" column="16" selection-start-line="22" selection-start-column="16" selection-end-line="22" selection-end-column="16" />
               <folding />
             </state>
           </provider>
@@ -81,8 +71,8 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/js/index.js" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/css/styles.less" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -267,12 +257,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1513835291291</updated>
-      <workItem from="1513835292697" duration="7846000" />
+      <workItem from="1513835292697" duration="8129000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7846000" />
+    <option name="totallyTimeSpent" value="8129000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1235" height="777" extended-state="0" />
@@ -376,18 +366,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/css/styles.less">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="351">
-          <caret line="17" column="13" selection-start-line="10" selection-start-column="4" selection-end-line="17" selection-end-column="13" />
+        <state relative-caret-position="297">
+          <caret line="22" column="16" selection-start-line="22" selection-start-column="16" selection-end-line="22" selection-end-column="16" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/styles.less">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="486">
-          <caret line="25" column="24" selection-start-line="25" selection-start-column="24" selection-end-line="25" selection-end-column="24" />
+        <state relative-caret-position="108">
+          <caret line="71" column="38" selection-start-line="71" selection-start-column="38" selection-end-line="71" selection-end-column="38" />
           <folding />
         </state>
       </provider>
