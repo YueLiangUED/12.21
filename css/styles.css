@@ -15,6 +15,7 @@ main section {
 }
 main section p {
   font-size: .25rem;
+  vertical-align: middle;
   color: #333333;
 }
 main section p span {
