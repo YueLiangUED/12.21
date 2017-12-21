@@ -1,0 +1,128 @@
+html,
+body {
+  font-family: "Microsoft YaHei";
+}
+header {
+  width: 7.5rem;
+  height: 6rem;
+  background: url("../images/pic_bg_01.png") center no-repeat;
+  background-size: cover;
+}
+main section {
+  box-sizing: border-box;
+  padding-left: .55rem;
+  width: 7.5rem;
+}
+main section p {
+  font-size: .25rem;
+  color: #333333;
+}
+main section p span {
+  display: inline-block;
+  width: .21rem;
+  height: .21rem;
+  font-size: .2rem;
+  text-align: center;
+  line-height: .21rem;
+  border: 1px solid #333333;
+  border-radius: 50%;
+}
+main section form {
+  font-size: .25rem;
+  color: #333333;
+}
+main section:nth-child(1) {
+  height: 4.1rem;
+  background: url("../images/pic_bg_02.png") center no-repeat;
+  background-size: cover;
+}
+main section:nth-child(1) form {
+  display: flex;
+  align-items: center;
+  padding: .1rem 0 0 .31rem;
+  box-sizing: border-box;
+  height: .75rem;
+}
+main section:nth-child(1) form input {
+  margin-right: .15rem;
+  width: .3rem;
+  height: .3rem;
+}
+main section:nth-child(1) form label {
+  margin-right: 1.46rem;
+}
+main section:nth-child(1) i {
+  margin-bottom: .5rem;
+  font-style: normal;
+  font-size: .18rem;
+  color: #e9443b;
+}
+main section:nth-child(1) p:nth-child(4) {
+  margin-top: .5rem;
+}
+main section:nth-child(2) {
+  height: 4.5rem;
+  background: url("../images/pic_bg_03.png") center no-repeat;
+  background-size: cover;
+}
+main section:nth-child(2) form {
+  padding: .1rem 0 0 .31rem;
+}
+main section:nth-child(2) form select {
+  width: 2.24rem;
+  height: .6rem;
+  border: none;
+  background-color: #ffffff;
+}
+main section:nth-child(2) textarea {
+  box-sizing: border-box;
+  margin: .13rem 0 .21rem 1.38rem;
+  padding: .15rem;
+  width: 4.66rem;
+  height: 1.05rem;
+  resize: none;
+  border-radius: .1rem;
+  border: none;
+}
+main section:nth-child(3) {
+  height: 3.16rem;
+  background: url("../images/pic_bg_04.png") center no-repeat;
+  background-size: cover;
+}
+main section:nth-child(3) form {
+  padding: .22rem 0 .35rem .31rem;
+}
+main section:nth-child(3) form input {
+  width: 4.38rem;
+  height: .6rem;
+  border: none;
+  border-radius: .1rem;
+}
+footer {
+  padding: .78rem 0 0 .28rem;
+  box-sizing: border-box;
+  width: 7.5rem;
+  height: 7.4rem;
+  background: url("../images/pic_bg_05.png") center no-repeat;
+  background-size: cover;
+}
+footer p {
+  font-size: .22rem;
+  line-height: 1.5em;
+  color: #ffffff;
+}
+footer p:nth-child(1) {
+  font-size: .2rem;
+  line-height: .2rem;
+}
+footer div {
+  margin: .4rem 0 .3rem .1rem;
+  width: 6.74rem;
+  height: .86rem;
+  background: url("../images/btn.png") center no-repeat;
+  background-size: cover;
+}
+footer p:nth-child(3) {
+  font-size: .3rem;
+  line-height: .7rem;
+}
