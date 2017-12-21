@@ -14,8 +14,8 @@ main section {
   width: 7.5rem;
 }
 main section p {
+  display: block;
   font-size: .25rem;
-  vertical-align: middle;
   color: #333333;
 }
 main section p span {
