@@ -24,6 +24,7 @@ main section p span {
   height: .21rem;
   font-size: .2rem;
   text-align: center;
+  vertical-align: middle;
   line-height: .21rem;
   border: 1px solid #333333;
   border-radius: 50%;
@@ -132,4 +133,89 @@ footer div {
 footer p:nth-child(3) {
   font-size: .3rem;
   line-height: .7rem;
+}
+/*遮罩层*/
+.mask {
+  position: absolute;
+  top: 0px;
+  filter: alpha(opacity=80);
+  background-color: #000;
+  z-index: 100;
+  left: 0px;
+  opacity: 0.8;
+}
+/*弹窗*/
+.tc {
+  position: fixed;
+  top: 20%;
+  left: 0;
+  right: 0;
+  margin: auto;
+  width: 4.86rem;
+}
+.tc div:nth-child(1) {
+  width: 4.86rem;
+  height: .95rem;
+  font-size: .38rem;
+  text-align: center;
+  line-height: .95rem;
+  border-radius: .1rem .1rem 0 0;
+  color: #ffffff;
+  background-color: #e74139;
+}
+.tc div:nth-child(2) {
+  position: relative;
+  box-sizing: border-box;
+  padding: .7rem .55rem 1rem;
+  width: 4.86rem;
+  height: 3.6rem;
+  text-align: center;
+  border-radius: 0 0 .1rem .1rem;
+  background-color: #ffffff;
+}
+.tc div:nth-child(2) p {
+  font-size: .24rem;
+  line-height: 2em;
+  color: #333333;
+}
+.tc div:nth-child(2) span {
+  position: absolute;
+}
+.tc_1 {
+  display: none;
+}
+.tc_1 div:nth-child(2) span {
+  bottom: .32rem;
+  left: 0;
+  right: 0;
+  margin: auto;
+  width: 3.12rem;
+  height: .65rem;
+  background: url("../images/tc_btn_1.png") center no-repeat;
+  background-size: cover;
+}
+.tc_2 {
+  display: none;
+  width: 5.26rem;
+}
+.tc_2 div:nth-child(1) {
+  width: 5.26rem;
+}
+.tc_2 div:nth-child(2) {
+  width: 5.26rem;
+}
+.tc_2 div:nth-child(2) span {
+  bottom: .32rem;
+  width: 2.18rem;
+  height: .65rem;
+}
+.tc_2 div:nth-child(2) span:nth-child(2) {
+  left: .3rem;
+  background: url("../images/tc_btn_2.png") center no-repeat;
+  background-size: cover;
+}
+.tc_2 div:nth-child(2) span:nth-child(3) {
+  right: .3rem;
+  background: url("../images/tc_btn_3.png") center no-repeat;
+  background-size: cover;
 }
