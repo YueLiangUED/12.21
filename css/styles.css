@@ -52,9 +52,8 @@ main section:nth-child(1) form label {
   margin-right: 1.46rem;
 }
 main section:nth-child(1) i {
-  margin-bottom: .5rem;
   font-style: normal;
-  font-size: .18rem;
+  font-size: .2rem;
   color: #e9443b;
 }
 main section:nth-child(1) p:nth-child(4) {
@@ -93,6 +92,8 @@ main section:nth-child(3) form {
   padding: .22rem 0 .35rem .31rem;
 }
 main section:nth-child(3) form input {
+  box-sizing: border-box;
+  padding: 0 .23rem;
   width: 4.38rem;
   height: .6rem;
   border: none;
